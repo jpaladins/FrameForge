@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="FrameForge Logo" width="128">
+</p>
+
 # FrameForge 🎬
 
 Estrai fotogrammi dai tuoi video e salvali come immagini PNG, con report hash PDF per la verifica di integrità.
