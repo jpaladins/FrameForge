@@ -16,10 +16,6 @@ Estrai fotogrammi dai tuoi video e salvali come immagini PNG, con report hash PD
 - **Interfaccia moderna** con tema dark (Tokyo Night palette)
 - **Eseguibile standalone** — nessuna installazione Python necessaria
 
-## 📸 Screenshot
-
-> _Aggiungi qui uno screenshot dell'applicazione_
-
 ## 🚀 Installazione
 
 ### Eseguibile (consigliato)
